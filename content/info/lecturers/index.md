@@ -1,7 +1,7 @@
 ---
 title: "Lecturers"
 date: 2019-10-24T23:21:30+02:00
-draft: false
+draft: true
 weight: 1
 summary: "The team of lecturers and organizers."
 ---

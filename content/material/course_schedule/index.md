@@ -1,7 +1,7 @@
 ---
 title: "Course schedule"
 summary: "The schedule for the course with links to the relevant sessions"
-draft: false
+draft: true
 ---
 
 ## About the schedule

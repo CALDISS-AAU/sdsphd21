@@ -1,6 +1,6 @@
 ---
 title: "Literature/appendix"
-draft: false
+draft: true
 summary: "Relevant literature and references for further reading can be found here (updated continuously)."
 ---
 

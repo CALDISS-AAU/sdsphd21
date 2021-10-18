@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-draft: false
+draft: true
 summary: "Information about portfolio for the course."
 ---
 

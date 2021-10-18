@@ -3,7 +3,7 @@ title: "Course Sessions"
 weight: 1
 summary: "Notebooks for the course sessions can be found here"
 type: "list_nopages"
-draft: false
+draft: true
 ---
 
 Find the Google Colab notebooks for the course sessions here.

@@ -1,7 +1,7 @@
 ---
 title: "E-Courses (DataCamp)"
 summary: "DataCamp provides access to e-courses. These are mandatory preparation."
-draft: false
+draft: true
 type: "withtoc"
 layout: "single"
 ---

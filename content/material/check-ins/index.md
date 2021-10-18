@@ -1,7 +1,7 @@
 ---
 title: "Check-in sessions"
 summary: "To properly prepare you for the course, we are hosting two check-in sessions leading up to the course"
-draft: false
+draft: true
 ---
 
 ## Check-in Sessions

@@ -1,5 +1,5 @@
 ---
-title: 'The Social Data Science PhD Course 2020'
+title: 'The Social Data Science PhD Course 2021'
 ---
 This is the repository page for the PhD Course 
 `Social Data Science: An Applied Introduction to Machine Learning`
@@ -16,13 +16,4 @@ This is the repository page for the PhD Course
 <br />
 {{</>}}
 
-## NOTE: This course will be held entirely online!
-
-Due to the continued COVID-19 precautions, this course will now be held entirely online. Read more on our [practical information page]({{<ref "info/practical/index.md" >}}).
-
-
-
-## Deadline for portfolio hand-in is on December 11th!
-
-Read more about portfolio requirements and how to hand in [here]({{< ref "./material/portfolio/index.md" >}}).
 
