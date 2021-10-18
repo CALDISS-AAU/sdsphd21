@@ -2,3 +2,5 @@ public
 */.ipynb_checkpoints
 .ipynb_checkpoints
 publish.sh
+add_gh-pages.sh
+commit_gh-pages.sh
