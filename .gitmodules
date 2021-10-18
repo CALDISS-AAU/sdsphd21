@@ -8,3 +8,6 @@
 [submodule "notebooks/thu26/web-mine"]
 	path = notebooks/thu26/web-mine
 	url = https://github.com/datawizard1337/EZ_Text_Mining.git
+[submodule "themes"]
+	path = themes
+	url = https://github.com/zerostaticthemes/hugo-whisper-theme.git

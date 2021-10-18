@@ -1,6 +1,6 @@
 ---
 title: "Portfolio"
-draft: true
+draft: false
 summary: "Information about portfolio for the course."
 ---
 
@@ -10,7 +10,7 @@ summary: "Information about portfolio for the course."
 
 Each day you are given an hour to work on a portfolio with the  possibility of sparring with the course lecturers. Here you are expected to solve a limited number of problems using the methods and tools  taught during the given day by writing your own code in a notebook.
 
-Two weeks after the end of the course (December 11th 2020), you are expected to hand in your combined  portfolio (the notebook(s) containing all your code) in order to receive  credits.
+Two weeks after the end of the course (December 10th 2021), you are expected to hand in your combined  portfolio (the notebook(s) containing all your code) in order to receive  credits.
 
 *Handing in your portfolio is required in order to receive your certificate and ECTS credits*.
 
@@ -24,7 +24,7 @@ What we mean by attempt is that we are not evaluating you based on a specific so
 
 **Note:** You are not expected to attempt to solve every single assignment. Note the different requirements for each day on the [sessions page](https://caldiss-aau.github.io/sdsphd20/sessions/).
 
-**Deadline**: December 11th 2020
+**Deadline**: December 10th 2021
 
 
 
