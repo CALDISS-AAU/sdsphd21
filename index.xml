@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Social Data Science PhD Course 2021 on AAU Social Data Science PhD 2021</title>
+    <link>https://caldiss-aau.github.io/sdsphd21/</link>
+    <description>Recent content in The Social Data Science PhD Course 2021 on AAU Social Data Science PhD 2021</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://caldiss-aau.github.io/sdsphd21/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Check-in sessions</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/material/check-ins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/material/check-ins/</guid>
+      <description>To properly prepare you for the course, we are hosting two check-in sessions leading up to the course</description>
+    </item>
+    
+    <item>
+      <title>Course schedule</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/material/course_schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/material/course_schedule/</guid>
+      <description>The schedule for the course with links to the relevant sessions</description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/material/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/material/portfolio/</guid>
+      <description>Information about portfolio for the course.</description>
+    </item>
+    
+    <item>
+      <title>Practical information</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/info/practical/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/info/practical/</guid>
+      <description>Read about the teaching format and other relevant info.</description>
+    </item>
+    
+    <item>
+      <title>Prerequisites</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/info/prerequisites/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/info/prerequisites/</guid>
+      <description>Make sure to bring your own computer with a Google account.</description>
+    </item>
+    
+  </channel>
+</rss>
