@@ -1,66 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://caldiss-aau.github.io/sdsphd21/info/</loc>
     <lastmod>2019-10-25T00:02:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/info/lecturers/</loc>
     <lastmod>2019-10-24T23:21:30+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/material/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/sessions/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/info/logistics/</loc>
     <lastmod>2019-10-25T00:02:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/</loc>
     <lastmod>2019-10-25T00:02:52+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/material/check-ins/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/material/course_schedule/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/material/e-courses/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/material/portfolio/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/info/practical/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/info/prerequisites/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://caldiss-aau.github.io/sdsphd21/tags/</loc>
   </url>
-  
 </urlset>

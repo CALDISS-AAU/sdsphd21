@@ -5,10 +5,6 @@
     <link>https://caldiss-aau.github.io/sdsphd21/categories/</link>
     <description>Recent content in Categories on AAU Social Data Science PhD 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://caldiss-aau.github.io/sdsphd21/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://caldiss-aau.github.io/sdsphd21/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
