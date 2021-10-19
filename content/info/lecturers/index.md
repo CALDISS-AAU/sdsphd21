@@ -1,19 +1,18 @@
 ---
 title: "Lecturers"
 date: 2019-10-24T23:21:30+02:00
-draft: true
+draft: false
 weight: 1
 summary: "The team of lecturers and organizers."
 ---
 
 ## Lecturers:
-- [Thomas Arildsen]({{< relref "#thomasa" >}})
 - [Daniel S. Hain]({{< relref "#danielsh" >}})
-- [Tobias L. Jensen]({{< relref "#tobiaslj" >}})
 - [Roman Jurowetzki]({{< relref "#romanj" >}})
 - [Rolf L. Lund]({{< relref "#rolf" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
-- [Jan Kinne]({{<relref "#jankinne">}}) (guest lecturer)
+
+  
 
 ## Organizers
 - [Daniel S. Hain]({{< relref "#danielsh" >}})
@@ -22,13 +21,8 @@ summary: "The team of lecturers and organizers."
 - [Kristian G. Kjelmann]({{< relref "#kristian" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
-### {{<rawhtml>}}<a id = "thomasa"></a>{{</>}}[![thomasa]( /sdsphd20/img/ta_head.png) Thomas Arildsen](https://vbn.aau.dk/en/persons/104579)
 
-Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
-
----
-
-### {{<rawhtml>}}<a id = "danielsh"></a>{{</>}}[![danielsh]( /sdsphd20/img/dsh_head.png) Daniel S. Hain](https://vbn.aau.dk/en/persons/126725)
+### {{<rawhtml>}}<a id = "danielsh"></a>{{</>}}[![danielsh]( /sdsphd21/img/dsh_head.png) Daniel S. Hain](https://vbn.aau.dk/en/persons/126725)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -36,13 +30,7 @@ Having a background in engineering, I somehow became an economist, interested in
 
 ---
 
-### {{<rawhtml>}}<a id = "tobiaslj"></a>{{</>}}[![tobiaslj](/sdsphd20/img/tlj_head.png) Tobias L. Jensen](https://vbn.aau.dk/en/persons/115205)
-
-Special Consultant at [CLAAUDIA](https://www.claaudia.aau.dk/) at Aalborg University.
-
----
-
-### {{<rawhtml>}}<a id = "romanj"></a>{{</>}}[![romanj](/sdsphd20/img/rj_head.jpg) Roman Jurowetzki](https://vbn.aau.dk/en/persons/125497)
+### {{<rawhtml>}}<a id = "romanj"></a>{{</>}}[![romanj](/sdsphd21/img/rj_head.jpg) Roman Jurowetzki](https://vbn.aau.dk/en/persons/125497)
 
 Associate Professor in Innovation Studies and Data Science at Aalborg University.
 
@@ -50,7 +38,7 @@ I come from a crossdisciplinary social science background. After my master in in
 
 ---
 
-### {{<rawhtml>}}<a id = "kristian"></a>{{</>}}[![kristian](/sdsphd20/img/kgk_head.png) Kristian G. Kjelmann](https://vbn.aau.dk/en/persons/137409)
+### {{<rawhtml>}}<a id = "kristian"></a>{{</>}}[![kristian](/sdsphd21/img/kgk_head.png) Kristian G. Kjelmann](https://vbn.aau.dk/en/persons/137409)
 
 General Manager of [CALDISS](https://www.en.caldiss.aau.dk/) at Aalborg University.
 
@@ -59,7 +47,7 @@ I now run CALDISS (Computational Analytics Laboratory for Digital Social Science
 
 ---
 
-### {{<rawhtml>}}<a id = "rolf"></a>{{</>}}[![rolf](/sdsphd20/img/rll_head.png) Rolf L. Lund](https://vbn.aau.dk/en/persons/133224)
+### {{<rawhtml>}}<a id = "rolf"></a>{{</>}}[![rolf](/sdsphd21/img/rll_head.png) Rolf L. Lund](https://vbn.aau.dk/en/persons/133224)
 
 Assistant Professor at Sociology and Social Work at Aalborg University.
 
@@ -72,7 +60,3 @@ I have a background in sociology. After my master in sociology of education I wa
 Professor in Media Technology and Computer Vision at Aalborg University
 
 ---
-
-### {{<rawhtml>}}<a id = "jankinne"></a>{{</>}}[![jankinne](/sdsphd20/img/jk_head.png) Jan Kinne](https://www.zew.de/en/team/jki/)
-
-Jan Kinne has been a member of the ZEW Research Department “Economics of Innovation and Industrial Dynamics” since June 2016. He studied geoinformatics at Heidelberg University and Loughborough University, UK. In the context of his dissertation (Dr. rer. nat.) at the University of Salzburg, which he successfully completed in September 2020, he developed web-based innovation indicators for microgeographic analyses. He continues to conduct method-oriented research on the use of (text-based) web data for innovation research. In 2019 he co-founded istari.ai, a startup that specializes in web-based company and market information in real-time.
