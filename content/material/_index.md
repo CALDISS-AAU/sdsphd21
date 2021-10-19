@@ -5,4 +5,4 @@ weight: 1
 draft: false
 ---
 
-Here you will find relevant course materials. The site will be updated continuously  as we approach the beginning of the course.
+Here you will find relevant course materials. The site will be updated continuously as we approach the beginning of the course.

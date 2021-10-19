@@ -1,7 +1,7 @@
 ---
 title: "E-Courses (DataCamp)"
 summary: "DataCamp provides access to e-courses. These are mandatory preparation."
-draft: true
+draft: false
 type: "withtoc"
 layout: "single"
 ---
@@ -128,17 +128,15 @@ https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2
 
 ## Supplementary courses for Monday (Nov. 23rd)
 
-
-
----
-
-## Supplementary courses for Tuesday (Nov. 24th)
-
 **Unsupervised Learning in Python**
 
 https://learn.datacamp.com/courses/unsupervised-learning-in-python
 
 
+
+---
+
+## Supplementary courses for Tuesday (Nov. 24th)
 
 **Supervised Learning with scikit-learn**
 

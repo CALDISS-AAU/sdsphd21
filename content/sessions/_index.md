@@ -25,8 +25,12 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 *Read more about the requirements and how to hand in your portfolio [here]({{<ref " ../content/material/portfolio/index.md" >}}).*
 
 ---
+
+
 ## Monday
+
 ---
+
 
 
 ## Tuesday
@@ -34,7 +38,9 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 ---
 
 
+
 ## Wednesday
+
 ---
 
 
