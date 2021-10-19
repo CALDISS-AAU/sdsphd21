@@ -5,7 +5,30 @@
     <link>https://caldiss-aau.github.io/sdsphd21/info/</link>
     <description>Recent content in Info on AAU Social Data Science PhD 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://caldiss-aau.github.io/sdsphd21/info/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Fri, 25 Oct 2019 00:02:52 +0200</lastBuildDate>
+    
+	<atom:link href="https://caldiss-aau.github.io/sdsphd21/info/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lecturers</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/info/lecturers/</link>
+      <pubDate>Thu, 24 Oct 2019 23:21:30 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/info/lecturers/</guid>
+      <description>The team of lecturers and organizers.</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/info/logistics/</link>
+      <pubDate>Fri, 25 Oct 2019 00:02:52 +0200</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/info/logistics/</guid>
+      <description>Everything you need to know about getting to and from the PhD course.</description>
+    </item>
+    
     <item>
       <title>Practical information</title>
       <link>https://caldiss-aau.github.io/sdsphd21/info/practical/</link>

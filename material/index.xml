@@ -6,7 +6,11 @@
     <description>Recent content in Materials &amp; schedule on AAU Social Data Science PhD 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://caldiss-aau.github.io/sdsphd21/material/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://caldiss-aau.github.io/sdsphd21/material/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Check-in sessions</title>
       <link>https://caldiss-aau.github.io/sdsphd21/material/check-ins/</link>
@@ -23,6 +27,15 @@
       
       <guid>https://caldiss-aau.github.io/sdsphd21/material/course_schedule/</guid>
       <description>The schedule for the course with links to the relevant sessions</description>
+    </item>
+    
+    <item>
+      <title>E-Courses (DataCamp)</title>
+      <link>https://caldiss-aau.github.io/sdsphd21/material/e-courses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://caldiss-aau.github.io/sdsphd21/material/e-courses/</guid>
+      <description>DataCamp provides access to e-courses. These are mandatory preparation.</description>
     </item>
     
     <item>
