@@ -14,7 +14,7 @@ Here you will find the e-course curriculum. The e-courses are provided by <a hre
 
 DataCamp e-courses consist of a combination of video lectures and hands-on exercises, where you will have to solve small coding problems.
 
-We strongly advice participants to complete as much as the mandatory course curriculum as possible. A lot of the same methods will be covered during the course but getting a feel for how python programming works before-hand allows you to get even more out of the PhD course.
+We strongly advice participants to complete as much as the mandatory course curriculum as possible. There will be brush-up exercises on the first day of course but we generally assume that you have acquired some experience in how Python works before-hand. This allows you to get more out of the PhD course.
 
 If you are participating in the course, you should have received a DataCamp invite via the e-mail you registered with (make sure to check your spam filter).
 
@@ -22,9 +22,9 @@ Please contact Kristian Gade Kjelmann (<a href="mailto:kgk@adm.aau.dk">kgk@adm.a
 
 ---
 
-## Mandatory preparation for the PhD course (~13.5 hours)
+## Mandatory preparation for the PhD course (~15.5 hours)
 
-**Introduction to python (4 hours)**
+**Introduction to Python (4 hours)**
 
 https://www.datacamp.com/courses/intro-to-python-for-data-science
 
@@ -32,7 +32,7 @@ https://www.datacamp.com/courses/intro-to-python-for-data-science
 
 
 
-**Intermediate python for data science (2.5 hours)**
+**Intermediate Python (2.5 hours)**
 
 https://www.datacamp.com/courses/intermediate-python-for-data-science
 
@@ -42,14 +42,13 @@ https://www.datacamp.com/courses/intermediate-python-for-data-science
 
 
 
-**Pandas foundations (2 hours)**
+**Data Manipulation with pandas (4 hours)**
 
 https://www.datacamp.com/courses/pandas-foundations
 
-- Chapter 1: Data ingestion & inspection
-- Chapter 2: Exploratory data analysis
+- Entire course
 
-
+  
 
 **Python data science toolbox (3 hours)**
 
@@ -126,7 +125,7 @@ https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2
 
 ---
 
-## Supplementary courses for Monday (Nov. 23rd)
+## Supplementary courses for Monday (Nov. 22nd)
 
 **Unsupervised Learning in Python**
 
@@ -136,7 +135,7 @@ https://learn.datacamp.com/courses/unsupervised-learning-in-python
 
 ---
 
-## Supplementary courses for Tuesday (Nov. 24th)
+## Supplementary courses for Tuesday (Nov. 23rd)
 
 **Supervised Learning with scikit-learn**
 
@@ -146,7 +145,7 @@ https://learn.datacamp.com/courses/supervised-learning-with-scikit-learn
 
 ---
 
-## Supplementary courses for Wednesday (Nov. 25th)
+## Supplementary courses for Wednesday (Nov. 24th)
 
 **Introduction to Network Analysis in Python**
 
@@ -158,7 +157,7 @@ https://learn.datacamp.com/courses/introduction-to-network-analysis-in-python
 
 ---
 
-## Supplementary courses for Thursday (Nov. 26th)
+## Supplementary courses for Thursday (Nov. 25th)
 
 **Introduction to Natural Language Processing in Python**
 
@@ -178,7 +177,7 @@ https://learn.datacamp.com/courses/analyzing-social-media-data-in-python
 
 ---
 
-## Supplementary courses for Friday (Nov. 27th)
+## Supplementary courses for Friday (Nov. 26th)
 
 **Introduction to Deep Learning with Keras**
 

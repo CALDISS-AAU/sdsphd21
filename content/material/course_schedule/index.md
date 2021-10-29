@@ -6,7 +6,7 @@ draft: false
 
 ## About the schedule
 
-The main course takes place from November 22rd to November 26th. Before the course, two [check-in sessions]({{<ref "../check-ins/index.md" >}}) are held in order to help you prepare for the course.
+The main course takes place from November 22nd to November 26th. Before the course, two [check-in sessions]({{<ref "../check-ins/index.md" >}}) are held in order to help you prepare for the course.
 
 ### Check-in I (Nov. 8th 2021)
 | Time        | Session                                                       | Zoom info | Instructors                         |
