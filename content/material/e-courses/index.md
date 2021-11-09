@@ -44,7 +44,7 @@ https://www.datacamp.com/courses/intermediate-python-for-data-science
 
 **Data Manipulation with pandas (4 hours)**
 
-https://www.datacamp.com/courses/pandas-foundations
+https://www.datacamp.com/courses/data-manipulation-with-pandas
 
 - Entire course
 
