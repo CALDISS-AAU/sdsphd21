@@ -10,6 +10,8 @@ summary: "The team of lecturers and organizers."
 - [Daniel S. Hain]({{< relref "#danielsh" >}})
 - [Roman Jurowetzki]({{< relref "#romanj" >}})
 - [Rolf L. Lund]({{< relref "#rolf" >}})
+- [Anders Kristian Munk]({{< relref "#akm" >}})
+- [Mathieu Jacomy]({{< relref "#mj" >}})
 - [Thomas B. Moeslund]({{< relref "#thomasbm" >}})
 
   
@@ -52,6 +54,18 @@ I now run CALDISS (Computational Analytics Laboratory for Digital Social Science
 Assistant Professor at Sociology and Social Work at Aalborg University.
 
 I have a background in sociology. After my master in sociology of education I was employed as a PhD fellow at Aalborg University, Department of Sociology, where I worked on spatial inequality using register data in combination with spatial clustering to better understand the flow and changes of socioeconomic inequality. After my recent PhD defense I continue to work at sociology by exploring the possibilities of combining satellite image recognition with register data to form models that helps us understand how micro level neighborhood change and (d)evolve over time.
+
+---
+
+### {{<rawhtml>}}<a id = "akm"></a>{{</>}}[![akm](/sdsphd21/img/akm_head.png) Anders Kristian Munk](https://vbn.aau.dk/en/persons/126983)
+
+Anders Kristian Munk is associate professor and director of [the Techno-Anthropology Lab](www.tantlab.aau.dk) at the University of Aalborg in Copenhagen and founding member of [the Public Data Lab](www.publicdatalab.org). His research focusses on public knowledge controversies and the role of digital platforms for democratic debate. Anders has a particular interest in the development of new digital methods at the interface between ethnography and computational techniques for data curation, analysis, and visualization, including how to involve stakeholders and citizens in data work.
+
+---
+
+### {{<rawhtml>}}<a id = "mj"></a>{{</>}}[![mj](/sdsphd21/img/mj_head.png) Mathieu Jacomy](https://vbn.aau.dk/en/persons/144218)
+
+Mathieu Jacomy is Doctor of Techno-Anthropology and post-doc at the Aalborg University TANT Lab. He was a research engineer for 10 years at the Sciences Po médialab in Paris, and is a co-founder of Gephi, a popular network visualization tool. He develops digital instruments involving data visualization and network analysis for the social science and humanities. His current research focuses on visual network analysis, digital methods and issue mapping. He contributes to developing the web crawler Hyphe, the online network sharing platform MiniVan, and Gephi. He tweets at @jacomyma and blogs at [reticular.hypotheses.org](reticular.hypotheses.org).
 
 ---
 
