@@ -48,7 +48,7 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | 8:30-9:00   | *Breakfast*                                                 | -              |
 | 09:00-11:00 | Working with geospatial data                                | Rolf L. Lund   |
 | 11:15-11:30 | *Break*                                                     | -              |
-| 11:30-12:00 | Case example: Using supervised machine learning in research | Guest TBD      |
+| 11:30-12:00 | Case example: Using supervised machine learning in research | Rolf L. Lund   |
 | 12:00-13:00 | *Lunch*                                                     | -              |
 | 13:00-16:00 | Introduction to network analysis                            | Daniel S. Hain |
 | 16:00-17:00 | *Portfolio work*                                            | -              |
@@ -57,29 +57,29 @@ The main course takes place from November 22nd to November 26th. Before the cour
 
 ### Thursday (Nov. 25th 2021)
 
-| Time        | Session                             | Instructor       |
-| ----------- | ----------------------------------- | ---------------- |
-| 8:30-9:00   | *Breakfast*                         | -                |
-| 09:00-11:15 | NLP I: Text as Data                 | Roman Jurowetzki |
-| 11:15-11:30 | *Break*                             | -                |
-| 11:30-12:00 | Case example: Using NLP in research | Guest TBD        |
-| 12:00-13:00 | *Lunch*                             | -                |
-| 13:00-16:00 | NLP II: Machine Learning and Text   | Roman Jurowetzki |
-| 16:00-17:00 | *Portfolio work*                    | -                |
+| Time        | Session                             | Instructor                                             |
+| ----------- | ----------------------------------- | ------------------------------------------------------ |
+| 8:30-9:00   | *Breakfast*                         | -                                                      |
+| 09:00-11:15 | NLP I: Text as Data                 | Roman Jurowetzki                                       |
+| 11:15-11:30 | *Break*                             | -                                                      |
+| 11:30-12:00 | Case example: Using NLP in research | [Hamid Bekamiri](https://vbn.aau.dk/en/persons/150043) |
+| 12:00-13:00 | *Lunch*                             | -                                                      |
+| 13:00-16:00 | NLP II: Machine Learning and Text   | Roman Jurowetzki                                       |
+| 16:00-17:00 | *Portfolio work*                    | -                                                      |
 
 
 ### Friday (Nov. 26th 2021)
 
-| Time        | Session                | Instructor                                      |
-| ----------- | ---------------------- | ----------------------------------------------- |
-| 8:30-9:00   | *Breakfast*            | -                                               |
-| 09:00-10:30 | Explainable AI         | Thomas B. Moeslund                              |
-| 10:30-10:45 | *Break*                | -                                               |
-| 10:45-11:20 | Case example: TBD      | Guest TBD                                       |
-| 11:20-12:00 | Case example: TBD      | Guest TBD                                       |
-| 12:00-13:00 | *Lunch*                | -                                               |
-| 13:00-14:00 | Methodological Outlook | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund |
-| 14:00       | Goodbye!               | -                                               |
+| Time        | Session                        | Instructor                                                   |
+| ----------- | ------------------------------ | ------------------------------------------------------------ |
+| 8:30-9:00   | *Breakfast*                    | -                                                            |
+| 09:00-10:30 | Explainable AI                 | Thomas B. Moeslund                                           |
+| 10:30-10:45 | *Break*                        | -                                                            |
+| 10:45-11:20 | Case example: TBD              | Guest TBD                                                    |
+| 11:20-12:00 | Case example from the industry | Jakob Knudsen & Anders Kramer Knudsen ([CogniTech A/S](https://cognitech.dk/)) |
+| 12:00-13:00 | *Lunch*                        | -                                                            |
+| 13:00-14:00 | Methodological Outlook         | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund              |
+| 14:00       | Goodbye!                       | -                                                            |
 
 
 ---
