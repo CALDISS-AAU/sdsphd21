@@ -30,7 +30,9 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 ## Monday
 
 ---
+### Introduction to Machine Learning and Exploratory Techniques
 
+**Clustering - a world of patterns** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CCALDISS-AAU/sdsphd21/blob/master/notebooks/clustering2021.ipynb#&offline=true&sandboxMode=true)
 
 
 ## Tuesday
