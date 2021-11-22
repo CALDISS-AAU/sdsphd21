@@ -52,17 +52,17 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 **Introduction to Supervised Machine Learning** 
 
 * [Slides](https://caldiss-aau.github.io/sdsphd21/slides/SML_introduction_theory.html)
-* Notebook [![Open in Colab](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_SML_application_py.ipynb#&offline=true&sandboxMode=true)
+* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_SML_application_py.ipynb#&offline=true&sandboxMode=true)
 
 **Explaining machine learning models** 
 
-* Notebook [![Open in Colab](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_Explainable_ML.ipynb#&offline=true&sandboxMode=true)
+* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_Explainable_ML.ipynb#&offline=true&sandboxMode=true)
 
 ## Wednesday
 
 **Introduction to network analysis** 
 
-* Notebook [![Open in Colab](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_intro_networks.ipynb#&offline=true&sandboxMode=true)
+* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_intro_networks.ipynb#&offline=true&sandboxMode=true)
 
 
 
