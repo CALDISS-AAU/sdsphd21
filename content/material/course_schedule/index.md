@@ -23,7 +23,7 @@ The main course takes place from November 22nd to November 26th. Before the cour
 |Time |Session |Instructor |
 |--|--|--|
 |8:30-9:00 |*Breakfast* |- |
-|09:00-12:00 |An Introduction to Python and Data Science (refresher and exercises based on e-course material) |CLAAUDIA |
+|09:00-12:00 |[An Introduction to Python and Data Science (refresher and exercises based on e-course material)]({{<ref "../../sessions/_index.md#monday">}}) |CLAAUDIA |
 |12:00-13:00 |*Lunch* |- |
 |13:00-16:00 |[Introduction to Machine Learning and Exploratory Techniques]({{<ref "../../sessions/_index.md#monday">}}) |Rolf L. Lund |
 |16:00-17:00 |*Portfolio work* |- |
