@@ -30,6 +30,14 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 ## Monday
 
 ---
+### An Introduction to Python and Data Science (refresher)
+
+**Regular expression refresher** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/regex.ipynb#&offline=true&sandboxMode=true)
+
+**Case exercise: Twitter data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/twitter_exc.ipynb#&offline=true&sandboxMode=true)
+
+**Case exercise: European Social Survey** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/ess.ipynb#&offline=true&sandboxMode=true)
+
 ### Introduction to Machine Learning and Exploratory Techniques
 
 **Clustering - a world of patterns** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/clustering2021.ipynb#&offline=true&sandboxMode=true)
