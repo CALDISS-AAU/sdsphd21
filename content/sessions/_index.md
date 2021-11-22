@@ -24,7 +24,7 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 
 *Read more about the requirements and how to hand in your portfolio [here]({{<ref " ../content/material/portfolio/index.md" >}}).*
 
-The assignments for each day are gathered in this notebook (links to Google Colab): [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd20/blob/master/notebooks/portfolio/sdsphd21_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
+The assignments for each day are gathered in this notebook (links to Google Colab): [Portfolio assignments](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/portfolio/sdsphd21_portfolio-assignments.ipynb#&offline=true&sandboxMode=true)
 
 *Remember to click "Copy to Drive" to create your own copy to work with!*
 
