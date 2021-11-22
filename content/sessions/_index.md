@@ -36,6 +36,8 @@ For Monday, Tuesday, Wednesday and Thursday, you are given an hour to work on a 
 
 **Case exercise: Twitter data** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/twitter_exc.ipynb#&offline=true&sandboxMode=true)
 
+  - *Notebooks with solutions* [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/twitter_data.ipynb#&offline=true&sandboxMode=true) 
+
 **Case exercise: European Social Survey** [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/ess.ipynb#&offline=true&sandboxMode=true)
 
 ### Introduction to Machine Learning and Exploratory Techniques
