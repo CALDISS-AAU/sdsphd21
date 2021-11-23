@@ -62,8 +62,10 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 
 ### Curating networks (TANT-Lab session)
 
-* [Slides](https://docs.google.com/presentation/d/1McJbva4fpjZj_9hNcHnD4vR7QUpWVOurwDQzUoqN7ms/edit#slide=id.g8ed6107cda_0_174)
-* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/CuratingNetworks.ipynb#&offline=true&sandboxMode=true)
+* [Visual Network Analysis](https://raw.githubusercontent.com/CALDISS-AAU/sdsphd21/master/slides/MJ_Overview%20of%20VNA.pdf) (Mathieu Jacomy)
+* [The Core Principle of VNA](https://raw.githubusercontent.com/CALDISS-AAU/sdsphd21/master/slides/MJ_The%20core%20principle%20of%20VNA.pdf) (Mathieu Jacomy)
+* [Curating Networks Slides](https://docs.google.com/presentation/d/1McJbva4fpjZj_9hNcHnD4vR7QUpWVOurwDQzUoqN7ms/edit#slide=id.g8ed6107cda_0_174) (Anders K. Munk)
+* Curating Networks Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/CuratingNetworks.ipynb#&offline=true&sandboxMode=true)
 
 ## Wednesday
 
