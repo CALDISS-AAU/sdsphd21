@@ -33,9 +33,9 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | **Time**    | **Session**                                 | **Instructor**                          |
 | ----------- | ------------------------------------------- | --------------------------------------- |
 | 8:30-9:00   | *Breakfast*                                 | -                                       |
-| 09:00-11:15 | Introduction to Supervised Machine Learning | Daniel S. Hain                          |
+| 09:00-11:15 | [Introduction to Supervised Machine Learning]({{<ref "../../sessions/_index.md#tuesday">}}) | Daniel S. Hain                          |
 | 11:15-11:30 | *Break*                                     | -                                       |
-| 11:30-12:00 | Evaluating machine learning  models         | Daniel S. Hain                          |
+| 11:30-12:00 | [Evaluating machine learning  models]({{<ref "../../sessions/_index.md#tuesday">}})         | Daniel S. Hain                          |
 | 12:00-13:00 | *Lunch*                                     | -                                       |
 | 13:00-16:00 | Guest session                               | [TANT-Lab](https://www.tantlab.aau.dk/) |
 | 16:00-17:00 | *Portfolio work*                            | -                                       |
