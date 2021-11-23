@@ -37,7 +37,7 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | 11:15-11:30 | *Break*                                     | -                                       |
 | 11:30-12:00 | [Evaluating machine learning  models]({{<ref "../../sessions/_index.md#tuesday">}})         | Daniel S. Hain                          |
 | 12:00-13:00 | *Lunch*                                     | -                                       |
-| 13:00-16:00 | Guest session                               | [TANT-Lab](https://www.tantlab.aau.dk/) |
+| 13:00-16:00 | [Curating Networks]({{<ref "../../sessions/_index.md#tuesday">}})                               | [TANT-Lab](https://www.tantlab.aau.dk/) |
 | 16:00-17:00 | *Portfolio work*                            | -                                       |
 
 
