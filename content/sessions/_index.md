@@ -69,6 +69,10 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 
 ## Wednesday
 
+### Working with Geospatial Data
+
+* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/spatial_stuff.ipynb#&offline=true&sandboxMode=true)
+
 ### Introduction to network analysis
 
 * Notebook 1m [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_intro_networks.ipynb#&offline=true&sandboxMode=true)
