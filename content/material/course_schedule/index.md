@@ -46,11 +46,11 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | **Time**    | **Session**                                                 | **Instructor** |
 | ----------- | ----------------------------------------------------------- | -------------- |
 | 8:30-9:00   | *Breakfast*                                                 | -              |
-| 09:00-11:00 | Working with geospatial data                                | Rolf L. Lund   |
+| 09:00-11:00 | [Working with geospatial data]({{<ref "../../sessions/_index.md#wednesday">}})                                | Rolf L. Lund   |
 | 11:15-11:30 | *Break*                                                     | -              |
 | 11:30-12:00 | Case example: Using supervised machine learning in research | Rolf L. Lund   |
 | 12:00-13:00 | *Lunch*                                                     | -              |
-| 13:00-16:00 | Introduction to network analysis                            | Daniel S. Hain |
+| 13:00-16:00 | [Introduction to network analysis]({{<ref "../../sessions/_index.md#wednesday">}})                            | Daniel S. Hain |
 | 16:00-17:00 | *Portfolio work*                                            | -              |
 
 
