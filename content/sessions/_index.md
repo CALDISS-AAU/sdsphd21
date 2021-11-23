@@ -81,7 +81,7 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 
 ## Thursday
 ---
-
+-
 
 
 ## Friday
