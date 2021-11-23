@@ -60,6 +60,11 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 
 * Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/sdsphd2021_Explainable_ML.ipynb#&offline=true&sandboxMode=true)
 
+### Curating networks (TANT-Lab session)
+
+* [Slides](https://docs.google.com/presentation/d/1McJbva4fpjZj_9hNcHnD4vR7QUpWVOurwDQzUoqN7ms/edit#slide=id.g8ed6107cda_0_174)
+* Notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/CuratingNetworks.ipynb#&offline=true&sandboxMode=true)
+
 ## Wednesday
 
 ### Introduction to network analysis
