@@ -85,8 +85,16 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 
 ## Thursday
 ---
--
+* Intro NLP and String Manipulation [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/Intro_NLP_CALDISSPHD21.ipynb)
 
+* Supervised ML and NLP [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/Intro_to_nlp_and_supervised_tasks.ipynb)
+
+* Supervised ML and NLP [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/Intro_to_nlp_and_supervised_tasks.ipynb)
+
+* NLP and Unsupervised ML [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/Unsupervised_ML_and_NLP_caldissNLP.ipynb)
+
+* Getting Tweets! [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/Twint_Demo_2021.ipynb
+)
 
 ## Friday
 ---
