@@ -73,9 +73,9 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | Time        | Session                        | Instructor                                                   |
 | ----------- | ------------------------------ | ------------------------------------------------------------ |
 | 8:30-9:00   | *Breakfast*                    | -                                                            |
-| 09:00-10:30 | Explainable AI                 | Thomas B. Moeslund                                           |
+| 09:00-10:30 | Deep Learning & XAI                 | Thomas B. Moeslund                                           |
 | 10:30-10:45 | *Break*                        | -                                                            |
-| 10:45-11:20 | Case example: TBD              | Guest TBD                                                    |
+| 10:45-11:20 | *Portfolio work*              | -                                                    |
 | 11:20-12:00 | Case example from the industry | Jakob Knudsen & Anders Kramer Knudsen ([CogniTech A/S](https://cognitech.dk/)) |
 | 12:00-13:00 | *Lunch*                        | -                                                            |
 | 13:00-14:00 | Methodological Outlook         | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund              |
