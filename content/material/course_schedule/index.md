@@ -60,11 +60,11 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | Time        | Session                             | Instructor                                             |
 | ----------- | ----------------------------------- | ------------------------------------------------------ |
 | 8:30-9:00   | *Breakfast*                         | -                                                      |
-| 09:00-11:15 | NLP I: Text as Data                 | Roman Jurowetzki                                       |
+| 09:00-11:15 | [NLP I: Text as Data]({{<ref "../../sessions/_index.md#thursday">}})                 | Roman Jurowetzki                                       |
 | 11:15-11:30 | *Break*                             | -                                                      |
 | 11:30-12:00 | Case example: Using NLP in research | [Hamid Bekamiri](https://vbn.aau.dk/en/persons/150043) |
 | 12:00-13:00 | *Lunch*                             | -                                                      |
-| 13:00-16:00 | NLP II: Machine Learning and Text   | Roman Jurowetzki                                       |
+| 13:00-16:00 | [NLP II: Machine Learning and Text]({{<ref "../../sessions/_index.md#thursday">}})   | Roman Jurowetzki                                       |
 | 16:00-17:00 | *Portfolio work*                    | -                                                      |
 
 
