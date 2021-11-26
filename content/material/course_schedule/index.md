@@ -78,7 +78,7 @@ The main course takes place from November 22nd to November 26th. Before the cour
 | 10:45-11:20 | *Portfolio work*              | -                                                    |
 | 11:20-12:00 | Case example from the industry | Jakob Knudsen & Anders Kramer Knudsen ([CogniTech A/S](https://cognitech.dk/)) |
 | 12:00-13:00 | *Lunch*                        | -                                                            |
-| 13:00-14:00 | Methodological Outlook         | Daniel S. Hain, Roman Jurowetzki & Rolf L. Lund              |
+| 13:00-14:00 | [Methodological Outlook]({{<ref "../../sessions/_index.md#friday">}})         | Daniel S. Hain, Roman Jurowetzki, Rolf L. Lund & Kristian G. Kjelmann              |
 | 14:00       | Goodbye!                       | -                                                            |
 
 
