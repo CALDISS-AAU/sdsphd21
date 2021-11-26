@@ -110,3 +110,6 @@ The assignments for each day are gathered in this notebook (links to Google Cola
 * Introduction to web scraping in Python [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/intro_web-scraping.ipynb#&offline=true&sandboxMode=true)
 
 * Examples using API's [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/API-examples.ipynb#&offline=true&sandboxMode=true)
+
+* Examples using article scraping [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CALDISS-AAU/sdsphd21/blob/master/notebooks/article3k_demo.ipynb#&offline=true&sandboxMode=true)
+
