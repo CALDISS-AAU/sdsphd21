@@ -1,4 +1,2 @@
 # sdsphd21
-Course repository for 2021 PhD course: Social Data Science - An Applied Introduction to Machine Learning
-
-Welcome to the course
+Course repository for 2021 PhD course: Social Data Science - An Applied Introduction to Machine Learning.
